@@ -1,0 +1,15 @@
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\bin\Debug\Template Practic.exe.config
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\bin\Debug\Template Practic.exe
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\bin\Debug\Template Practic.pdb
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\MainWindow.g.cs
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\App.g.cs
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\Template Practic_MarkupCompile.cache
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\Template Practic_MarkupCompile.lref
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\App.baml
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\MainWindow.baml
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\Template Practic.g.resources
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\Template_Practic.Properties.Resources.resources
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\Template Practic.csproj.GenerateResource.Cache
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\Template Practic.exe
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\Template Practic.pdb
+c:\users\садыковаа\documents\visual studio 2017\Projects\Template Practic\Template Practic\obj\Debug\Template Practic.csprojResolveAssemblyReference.cache

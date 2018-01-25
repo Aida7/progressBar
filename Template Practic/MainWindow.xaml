@@ -1,0 +1,30 @@
+﻿<Window x:Class="Template_Practic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Template_Practic"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="176.7" Width="543.514">
+    <Grid>
+        <ProgressBar Minimum="0"  Maximum="100" Name="progressBar" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="147" Margin="196,106,0,0" IsIndeterminate="True" ValueChanged="progressBar_ValueChanged" BorderBrush="#FF5F5B5B"   >
+            <ProgressBar.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF373C47" Offset="1"/>
+                    <GradientStop Color="#FF4E4E4F" Offset="0.002"/>
+                    <GradientStop Color="#FFB8B8B8" Offset="0.06"/>
+                    <GradientStop Color="#FF5D5E61" Offset="0.435"/>
+                </LinearGradientBrush>
+            </ProgressBar.Background>
+            <ProgressBar.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0B144F" Offset="1"/>
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FF15408D" Offset="0.337"/>
+                    <GradientStop Color="#FF6190DE" Offset="0.775"/>
+                </LinearGradientBrush>
+            </ProgressBar.Foreground>
+        </ProgressBar>
+        <TextBox Text="{Binding ElementName=progressBar, Path=Value}"  Margin="266,106,243,18" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" />
+    </Grid>
+</Window>
